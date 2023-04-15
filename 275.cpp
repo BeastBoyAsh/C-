@@ -1,0 +1,1 @@
+    f2<<"\nRollno"<<"\t"<<"Name"<<"\t"<<"Branch"<<"\t"<<"Sem"<<"\t"<<"Ans"<<"\n";
