@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+
+main(){
+	char c;
+	int i,j;
+	cout<<"Enter the alphabet = ";
+	cin>>c;
+	for(i=1;i<=5;i=i+1)
+	{
+	  for(j=1;j<=i;j=j+1)
+	  {
+	  	cout<<c;
+	  }
+	 cout<<"\n";
+      }
+}
