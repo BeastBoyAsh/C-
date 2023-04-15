@@ -1,0 +1,8 @@
+12	Ayush	23
+2	As	45
+23	Ayush	34
+23	SD	4
+34	DF	3
+0	Ayush	0
+0	Ayush	0
+0	Ayush	0

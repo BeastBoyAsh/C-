@@ -1,0 +1,4 @@
+1 Ayush  IT 4 2
+2 Jha    IT 4 0
+3 Aryan  IT 4 1Rollno	Name	Branch	Sem	Ans
+4	Deep	IT	4	0

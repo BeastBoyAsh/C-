@@ -1,0 +1,6 @@
+Rollno	Name	Branch	Sem	Ans
+1	Ayush	IT	4	0
+Rollno	Name	Branch	Sem	Ans
+4	Ashu	EE	4	1
+Rollno	Name	Branch	Sem	Ans
+5	Ayush	IT	4	0

@@ -1,0 +1,5 @@
+7	Ayush	23
+8	Ashu	34
+11	Deep	23
+36	Jomshi	56
+50	Shimjo	675

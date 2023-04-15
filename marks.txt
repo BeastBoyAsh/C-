@@ -1,0 +1,16 @@
+3	Ashu	IT	4	1ranch	Sem	Ans
+3	Ayush	IT	4	1Rollno	Name	Branch	Sem	Ans
+3	Ayush	IT	4	1Rollno	Name	Branch	Sem	Ans
+3	Hg	ee	4	0
+Rollno	Name	Branch	Sem	Ans
+5	As	ee	45	1
+Rollno	Name	Branch	Sem	Ans
+1	Ayush	w	e	0
+Rollno	Name	Branch	Sem	Ans
+7	Ayush	S	4	1
+Rollno	Name	Branch	Sem	Ans
+9	As	IT	4	1
+Rollno	Name	Branch	Sem	Ans
+0	Aryan	IT	4	0
+Rollno	Name	Branch	Sem	Ans
+11	D	ee	4	2
